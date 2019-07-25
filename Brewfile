@@ -1,6 +1,7 @@
 brew "autojump"
 brew "node"
 brew "peco"
+brew "bat"
 brew "the_silver_searcher"
 brew "tmux-xpanes"
 brew "watch"
